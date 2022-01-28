@@ -2,7 +2,14 @@
 
 This project was build for the slice pizzeria, where they need a program that can run their pizzabot.
 
-We decide to bring him alive, to install it first, install the repository globally, so you can use our CLI.
+We decide to bring him alive, to install it,
+
+First clone oure repo:
+```
+git clone https://github.com/ortegoncarlos/pizzabot-cli.git
+```
+
+Install the repository globally, so you can use our CLI.
 
 then run:
 ```
