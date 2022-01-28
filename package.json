@@ -1,0 +1,17 @@
+{
+  "name": "pizzabot",
+  "version": "1.0.0",
+  "description": "This is a pizzabot for delivery in a world of a Cartesian plane",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "pizzabot": "./index.js"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
