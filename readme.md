@@ -4,7 +4,7 @@ This project was build for the slice pizzeria, where they need a program that ca
 
 We decide to bring him alive, to install it,
 
-First clone oure repo:
+First clone our repo:
 ```
 git clone https://github.com/ortegoncarlos/pizzabot-cli.git
 ```
